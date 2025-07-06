@@ -3,6 +3,12 @@ Deep learning-based detection of potato leaf diseases using CNN and Autoencoder 
 
 # 🥔 Potato Leaf Disease Detection using Deep Learning
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Keras](https://img.shields.io/badge/Keras-DeepLearning-red?logo=keras)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Used-orange?logo=tensorflow)
+![Accuracy](https://img.shields.io/badge/CNN%20Test%20Accuracy-99.6%25-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 This project focuses on detecting diseases in potato leaves using deep learning models. Two different approaches are implemented:
 
 - A **Convolutional Neural Network (CNN)** model
@@ -43,6 +49,9 @@ Both models classify leaf images into three categories:
 - ✅ Validation Accuracy: 90.8%  
 - ✅ Test Accuracy: 89.7%  
 - ✅ Final Loss: 0.0051
+
+![CNN Accuracy](https://img.shields.io/badge/CNN%20Accuracy-99.6%25-brightgreen)
+![AE+Classifier Accuracy](https://img.shields.io/badge/AE%2BClassifier%20Accuracy-89.7%25-blue)
 
 ---
 
